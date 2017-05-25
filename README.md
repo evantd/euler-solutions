@@ -5,4 +5,4 @@ This started as a place to put my solutions to Project Euler problems, but I've 
 My solutions to Project Euler problems.
 
 ## interview
-Programming interview questions I've asked or been asked and solutions for them.
+Programming interview type questions I've heard of and solutions for them.
